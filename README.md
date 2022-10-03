@@ -9,9 +9,9 @@ Users sign up using their email address and view their purchase history using th
 
 ## My Contributions
 In this project, I...
-- Wrote SQL queries to efficiently retrieve data from an Oracle database.
-- Developed an API with Express that the front end uses to retrieve data.
-- Created dynamic web pages using React.
+- Wrote SQL queries to efficiently retrieve store data from an Oracle database.
+- Developed an API with Express that the front end uses to retrieve store data.
+- Created dynamic product and purchase history pages using React.
 
 ## Demo Video
 Please view this [demo video](https://drive.google.com/file/d/1qJhA9rHUpj2zPMSj_vdMQ7epneNVImbM/view?usp=sharing) to see the entire app in action.
